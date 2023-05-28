@@ -1,2 +1,2 @@
-j!/bin/bash
+#!/bin/bash
 echo "the school is open!"
